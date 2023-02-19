@@ -1,4 +1,4 @@
-Perkenalkan nama saya **Lingga**.\
+Perkenalkan nama saya **Lingga**.
  
 <p align="left">
 <a href="https://github.com/linggash">
